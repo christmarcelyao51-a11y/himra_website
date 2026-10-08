@@ -1,0 +1,9 @@
+- [x] Créer le composant `ScrollReveal.tsx` pour les apparitions au scroll
+- [x] Créer le composant `TextReveal.tsx` pour l'animation des grands titres
+- [x] Mettre à jour `globals.css` avec le défilement fluide, les transitions avancées et les animations de dégradé
+- [x] Modifier la `Navbar.tsx` pour qu'elle devienne dynamique (hauteur et détection du sens du scroll)
+- [x] Intégrer les animations sur la page d'accueil (`page.tsx`)
+- [x] Intégrer les animations sur la page de certifications (`certifications/page.tsx`)
+- [x] Intégrer les animations sur la page des concerts (`concerts/page.tsx`)
+- [x] Intégrer les animations sur la page de discographie (`discographie/page.tsx`)
+- [ ] Compiler et tester le projet pour vérifier qu'il n'y a pas d'erreurs
